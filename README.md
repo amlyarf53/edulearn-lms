@@ -1,6 +1,6 @@
 # edulearn-lms
 EduLearn: Rancang Bangun LMS Mini Berbasis Web
 
-Daftar Anggota:
+Anggota Kelompok 6:
 - Amelia Ratu Ferisha
 - Rahayu Putri Aulia Simatupang
