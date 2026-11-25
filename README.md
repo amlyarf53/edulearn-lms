@@ -7,3 +7,5 @@ Anggota Kelompok 6:
 
 Link Mockup Figma
 https://www.figma.com/design/U1AMbstqWBq4AcbISV1FdP/EduLearn?node-id=1-24&m=dev&t=gIyF8xaYMnRs0Lt7-1
+
+Link Platform Edulearn : https://edulearn-ptik.freehosting.dev
